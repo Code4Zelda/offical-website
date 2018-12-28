@@ -13,7 +13,7 @@ class App extends React.Component {
         
         return (
             <div className='center'>
-                
+                Adding D3
             </div>
         )
     }
